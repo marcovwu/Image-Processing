@@ -2,21 +2,19 @@
 
 [1.]image_retrieval
 
-Run gui.m
+Run gui.m and set mode : 
 
-set mode:
+(1)histogram
 
-histogram
+(2)Vgg net
 
-Vgg net
+(3)HSV
 
-HSV
+(4)AutoEncoder
 
-AutoEncoder
+(5)Color-correlogram
 
-Color-correlogram
-
-LBP features
+(6)LBP features
 
 ![image](https://github.com/marcovwu/Image-Processing/blob/master/file_image/image_retrieval.JPG)
 [2.]seam_carving
