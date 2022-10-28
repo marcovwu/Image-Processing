@@ -1,6 +1,7 @@
 # Image-Processing
+This repo contained 3 tranditional image-processing projects in Fundamentals of Multimedia (audition course).
 
-[1.]image_retrieval
+# image_retrieval
 
 Run gui.m and set mode : 
 
@@ -17,14 +18,16 @@ Run gui.m and set mode :
 (6)LBP features
 
 ![image](https://github.com/marcovwu/Image-Processing/blob/master/file_image/image_retrieval.JPG)
-[2.]seam_carving
+
+# seam_carving
 
 Run main.m
 
 (a way to zoom in or zoom out imag)
 
 ![image](https://github.com/marcovwu/Image-Processing/blob/master/file_image/seam_carving.JPG)
-[3.]watermark
+
+# watermark
 
 Run bitGUI.m
 
